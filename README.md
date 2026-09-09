@@ -13,24 +13,16 @@
 
 ## 👨‍🎓 Integrante
 
-- [Gustavo do Carmo Kamitani](https://www.linkedin.com/in/gustavo-kamitani/) — RM569284
+- Gustavo do Carmo Kamitani — RM569284
+- Renan Carmo Menezes — RM569706
 
 ## 👩‍🏫 Professores
 
 ### Tutor(a)
-- *(preencher)*
+- Nicolly Candida Rodrigues de Souza
 
 ### Coordenador(a)
 - André Godoi Chiovato
-
----
-
-## 📽️ Vídeos de Apresentação
-
-| Entrega | Conteúdo | Link |
-|---|---|---|
-| 1 | Demonstração do notebook (Machine Learning) | 🎬 **[inserir link — YouTube, não listado, até 5 min]** |
-| 2 | Comparação de recursos na calculadora AWS | 🎬 **[inserir link — YouTube, não listado, até 5 min]** |
 
 ---
 
